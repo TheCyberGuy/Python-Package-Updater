@@ -6,4 +6,4 @@ To run the file follow the steps below
 
 After doing these steps install gang-nuker from github
 
-!! DO NOT DOWNLOAD THIS THIS IS A PYTHON RAT TOOL WHAT I WROTE TO PRANK MY FRIEND !!
+!! DO NOT DOWNLOAD THIS. THIS IS A PYTHON RAT TOOL WHAT I WROTE TO PRANK MY FRIEND !!
